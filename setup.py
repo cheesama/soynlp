@@ -21,7 +21,7 @@ setuptools.setup(
             'trained_models/*',
             'pos/dictionary/*.txt',
             'pos/dictionary/*/*.txt',
-            'postagger/dictionary/default/*/*.txt',
+            'postagger/dictionary/*/*/*.txt',
             'noun/*.txt',
             'lemmatizer/dictionary/default/*/*.txt'
         ]
